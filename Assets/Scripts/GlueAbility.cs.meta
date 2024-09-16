@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5e56054db8f08db45b86f2da559b4821
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gluePuddlePrefab: {fileID: 238827760759656855, guid: cf2ef30c57c0a914f9fef307fa5d8c7e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
